@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuslimMehdi
-- 👀 I’m interested in Machine Learning and in making my own programming language
-- 🌱 I’m currently learning Python (ML ,AI, DL and Data sciene)
+- 👀 I’m interested in Machine Learning and in making my own stuff aka a diy-er
+- 🌱 I’m currently learning Python (ML ,AI, DL and Data sciene etc)
 - 💞️ I’m looking to collaborate on make a programming language which can also do AI development 
 - 📫 reach me through my email muslimmehdi17971@gmail.com
 
